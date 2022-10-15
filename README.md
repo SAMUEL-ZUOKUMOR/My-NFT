@@ -1,4 +1,8 @@
-# Welcome to HashLips 👄
+# Welcome to Pickles Invasion
+
+`click <a href="https://opensea.io/collection/thepicklesinvasion">here</a> to view on opensea`
+
+<b><i>Generated via `hashlips_art_engine`</i></b>
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
