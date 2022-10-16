@@ -1,10 +1,11 @@
 # Welcome to Pickles Invasion
 
-`click <a href="https://opensea.io/collection/thepicklesinvasion">here</a> to view on opensea`
+<img src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/30209831671384162739449778048366612862687354873700784849941326185013769666561" />
+
+click <a href="https://opensea.io/collection/thepicklesinvasion">here</a> to view on opensea
 
 <b><i>Generated via `hashlips_art_engine`</i></b>
 
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
