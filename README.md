@@ -1,6 +1,6 @@
 # Welcome to Pickles Invasion
 
-<img src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/30209831671384162739449778048366612862687354873700784849941326185013769666561" />
+<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/30209831671384162739449778048366612862687354873700784849941326185013769666561"></a>
 
 click <a href="https://opensea.io/collection/thepicklesinvasion">here</a> to view on opensea
 
